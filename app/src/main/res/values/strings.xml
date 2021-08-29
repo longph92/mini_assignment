@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mini Assignment</string>
+    <string name="first_fragment_label">Order Fragment</string>
+    <string name="second_fragment_label">Ingredient Fragment</string>
+    <string name="label_auto_reject">Auto Reject</string>
+    <string name="label_at_time_format">at %s</string>
+    <string name="label_total_item_format">%d item</string>
+    <string name="label_total_items_format">%d items</string>
+    <string name="btn_accept">Accept</string>
+    <string name="btn_incoming">Incoming</string>
+    <string name="btn_ingredient">Ingredient</string>
+    <string name="label_available">Available</string>
+    <string name="hint_search_for_an_item">Search for an item</string>
+    <string name="btn_expired">Expired</string>
+</resources>
